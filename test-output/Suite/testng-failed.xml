@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="web2_0.W2E1_Caso007Safari">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="testW2E1_Caso007"/>
+        </methods>
+      </class> <!-- web2_0.W2E1_Caso007Safari -->
+      <class name="web2_0.W2E1_Caso003Safari">
+        <methods>
+          <include name="testW2E1_Caso003"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- web2_0.W2E1_Caso003Safari -->
+      <class name="web2_0.W2E1_Caso008Safari">
+        <methods>
+          <include name="setUp"/>
+          <include name="testW2E1_Caso008"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- web2_0.W2E1_Caso008Safari -->
+      <class name="web2_0.W2E1_Caso005Safari">
+        <methods>
+          <include name="setUp"/>
+          <include name="testW2E1_Caso005"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- web2_0.W2E1_Caso005Safari -->
+      <class name="web2_0.W2E1_Caso012Safari">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testW2E1_Caso012"/>
+        </methods>
+      </class> <!-- web2_0.W2E1_Caso012Safari -->
+      <class name="web2_0.W2E1_Caso001Iphone">
+        <methods>
+          <include name="setUp"/>
+          <include name="testW2E1_Caso001"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- web2_0.W2E1_Caso001Iphone -->
+      <class name="web2_0.W2E1_Caso011Safari">
+        <methods>
+          <include name="testW2E1_Caso011"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- web2_0.W2E1_Caso011Safari -->
+      <class name="web2_0.W2E1_Caso004Safari">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testW2E1_Caso004"/>
+        </methods>
+      </class> <!-- web2_0.W2E1_Caso004Safari -->
+      <class name="web2_0.W2E1_Caso009Safari">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="testW2E1_Caso009Safari"/>
+        </methods>
+      </class> <!-- web2_0.W2E1_Caso009Safari -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
